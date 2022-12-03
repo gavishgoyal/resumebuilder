@@ -34,13 +34,13 @@
                 
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="http://localhost/gavipractice/project/index.html#services" style = "color : black">Services</a></li>
-                        <li class="nav-item"><a class="nav-link" href="http://localhost/gavipractice/project/index.html#portfolio" style = "color : black">Portfolio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="http://localhost/gavipractice/project/index.html#about" style = "color : black">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="http://localhost/gavipractice/project/index.html#team" style = "color : black">Team</a></li>
-                        <li class="nav-item"><a class="nav-link" href="http://localhost/gavipractice/project/index.html#contact" style = "color : black">Contact</a></li>
-						<li class="nav-item"><a class="nav-link" href="http://localhost/gavipractice/project/index.php" style = "color : black">Login</a></li>
-						<li class="nav-item"><a class="nav-link" href="http://localhost/gavipractice/project/register.php" style = "color : black">Register</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://gavishgoyal.github.io/resumebuilder/index.html#services" style = "color : black">Services</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://gavishgoyal.github.io/resumebuilder/index.html#portfolio" style = "color : black">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://gavishgoyal.github.io/resumebuilder/index.html#about" style = "color : black">About</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://gavishgoyal.github.io/resumebuilder/index.html#team" style = "color : black">Team</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://gavishgoyal.github.io/resumebuilder/index.html#contact" style = "color : black">Contact</a></li>
+						<li class="nav-item"><a class="nav-link" href="https://gavishgoyal.github.io/resumebuilder/index.php" style = "color : black">Login</a></li>
+						<li class="nav-item"><a class="nav-link" href="https://gavishgoyal.github.io/resumebuilder/register.php" style = "color : black">Register</a></li>
                     </ul>
                 </div>
             </div>
@@ -83,11 +83,11 @@
 <button type ="submit" class="btn btn-dark" >submit</button>
 </div>
 <div id = "hide2" style =  "display : none">
-<a class="btn btn-outline-primary mr-1" href="http://localhost/gavipractice/project/index.php" role="button">LOGIN NOW</a>
+<a class="btn btn-outline-primary mr-1" href="https://gavishgoyal.github.io/resumebuilder/index.php" role="button">LOGIN NOW</a>
 </div>
 <p id ="s1"></p>
 <div id ="hide3">
-<p><a href="http://localhost/gavipractice/project/index.php" >Already have an account? then LOGIN</a></p>
+<p><a href="https://gavishgoyal.github.io/resumebuilder/index.php" >Already have an account? then LOGIN</a></p>
 </div>
 </form>
 </div>

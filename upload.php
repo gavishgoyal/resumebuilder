@@ -49,5 +49,5 @@ foreach($cname as $key => $value){
 		
 	
 }	
-header("Location: http://localhost/gavipractice/project/welcome.php");
+header("Location: https://gavishgoyal.github.io/resumebuilder/welcome.php");
 ?>

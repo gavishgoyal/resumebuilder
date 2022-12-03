@@ -1,7 +1,7 @@
 <?php 
 session_start();
 if($_SESSION['uname'] == "" ){
-	header("location: http://localhost/gavipractice/project/index.php");
+	header("location: https://gavishgoyal.github.io/resumebuilder/index.php");
 	die;
 }
 $servername ='localhost';

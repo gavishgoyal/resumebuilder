@@ -42,7 +42,7 @@ function Export2Word(element, filename = ''){
 <?php 
 session_start();
 if($_SESSION['uname'] == "" ){
-	header("location: http://localhost/gavipractice/project/index.php");
+	header("location: https://gavishgoyal.github.io/resumebuilder/index.php");
 	die;
 }
 $servername ='localhost';
@@ -85,7 +85,7 @@ $result1 = mysqli_query($conn ,$sql1);
 <body>
 
 <input class="btn btn-outline-primary mr-1" type = "button" onclick = "Export2Word('inner' )" value = "Download as word" style = "float: right", "margin-right : 5px" > 
-						<h3><a href="http://localhost/gavipractice/project/resumeprint.php" role="button" style = "float: right"><button class="btn btn-outline-primary" >DOWNLOAD as pdf</button></a></h3>
+						<h3><a href="https://gavishgoyal.github.io/resumebuilder/resumeprint.php" role="button" style = "float: right"><button class="btn btn-outline-primary" >DOWNLOAD as pdf</button></a></h3>
 						<br>
 <div id="doc2" class="yui-t7">
 <div>
